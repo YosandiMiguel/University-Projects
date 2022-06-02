@@ -1,0 +1,14 @@
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.exe
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.deps.json
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.json
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfo.cs
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\Yosandi Miguel Reyes\source\repos\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.genruntimeconfig.cache
